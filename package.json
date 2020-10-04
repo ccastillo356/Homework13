@@ -1,0 +1,23 @@
+{
+  "name": "homework13",
+  "version": "1.0.0",
+  "description": "Eat Da Burger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccastillo356/Homework13.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccastillo356/Homework13/issues"
+  },
+  "homepage": "https://github.com/ccastillo356/Homework13#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
